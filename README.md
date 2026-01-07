@@ -13,7 +13,6 @@ A simple and clean Flutter project demonstrating the use of **AnimatedCrossFade*
 ## Screenshots
 
 ![Screenshot 1](assets/images/healthy.png)  
-*(Add your own screenshot if needed)*
 
 ## Getting Started
 
